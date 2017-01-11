@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2Database.mdf
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2Database_log.ldf
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.pdb
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.xml
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\MainWindow.g.vb
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\UserControl1.g.vb
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\Application.g.vb
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_Content.g.vb
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\UserControl1.baml
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.g.resources
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.exe
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.xml
+c:\users\user\documents\visual studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2Database.mdf
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2Database_log.ldf
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\MainWindow.g.vb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\UserControl1.g.vb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\Application.g.vb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_Content.g.vb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\UserControl1.baml
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.g.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TMA2MediaPlayer\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe.config
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.exe
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.xml
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.pdb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2Database.mdf
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2Database_log.ldf
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.exe
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.pdb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\bin\Debug\TMA2MediaPlayer.xml
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\MainWindow.g.vb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\UserControl1.g.vb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\Application.g.vb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_Content.g.vb
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.cache
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer_MarkupCompile.lref
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\UserControl1.baml
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.g.resources
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Form1.resources
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.Resources.resources
+C:\Users\User\Desktop\WOU\Sem 3\TMA2 DONE\TMA2\TMA2 - Question 1\TMA2MediaPlayer\obj\Debug\TMA2MediaPlayer.vbproj.GenerateResource.Cache
